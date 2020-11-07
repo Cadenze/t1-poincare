@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Equation/1825508311_1570007427_321992768.mp4'

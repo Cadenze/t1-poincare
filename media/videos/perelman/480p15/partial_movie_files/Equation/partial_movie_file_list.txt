@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Equation/3435788854_1570007427_321992768.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Equation/266167252_1901942187_624547546.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Equation/266167252_1-0_1081447818.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Equation/266167252_4169218451_624547546.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Equation/266167252_1-0_3412863311.mp4'

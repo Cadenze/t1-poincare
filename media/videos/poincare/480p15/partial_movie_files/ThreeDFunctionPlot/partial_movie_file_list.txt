@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/ThreeDFunctionPlot/4110933628_660978579_2554359130.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/ThreeDFunctionPlot/1951055435_3108791635_4132050000.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/ThreeDFunctionPlot/1951055435_1-0_2489342854.mp4'

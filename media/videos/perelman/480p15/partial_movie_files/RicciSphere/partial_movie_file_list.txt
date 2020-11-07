@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/RicciSphere/2248036889_1623162987_3918853698.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/RicciSphere/809816418_2_3924650674.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/RicciSphere/809816418_625272965_1476564488.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/RicciSphere/809816418_2106878735_4148779711.mp4'

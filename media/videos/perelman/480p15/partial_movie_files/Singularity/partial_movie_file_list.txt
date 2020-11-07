@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/2875829392_4_2003056623.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/2164680390_3706796836_4037543154.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/1400166677_1-0_4037543154.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/899319158_2453209528_3695261208.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/3527969184_4_1874333984.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/610694775_3706796836_1661826190.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/Singularity/28884391_1-0_1661826190.mp4'
