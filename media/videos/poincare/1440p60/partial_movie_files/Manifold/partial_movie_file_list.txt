@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Manifold/3106139776_1-0_3158962731.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Manifold/3391724524_789250215_946910172.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Manifold/3391724524_1-0_2094985329.mp4'

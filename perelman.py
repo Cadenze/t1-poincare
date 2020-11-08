@@ -65,15 +65,15 @@ class Singularity(ThreeDScene):
 
         self.add(cassini)
 
-        self.begin_ambient_camera_rotation(rate=PI/2)
+        self.begin_ambient_camera_rotation(rate=PI/4)
         self.wait(4)
-        self.stop_ambient_camera_rotation()
+        # self.stop_ambient_camera_rotation()
         # self.move_camera(phi=60 * DEGREES, theta=30 * DEGREES)
         self.wait()
 
-        self.play(Transform(cassini, lemniscate), run_time = 2)
+        self.play(Transform(cassini, lemniscate), run_time = 4)
 
-        self.begin_ambient_camera_rotation(rate=PI/2)
+        # self.begin_ambient_camera_rotation(rate=PI/2)
         self.wait(4)
         self.stop_ambient_camera_rotation()
         # self.move_camera(phi=60 * DEGREES, theta=30 * DEGREES)
@@ -190,20 +190,38 @@ class TwoSpheres(ThreeDScene):
             checkerboard_colors=[PURPLE_C, PURPLE_D], resolution=(15, 32)
         )
 
-        bigsphere = ParametricSurface(
+        cylinder1 = ParametricSurface(
             lambda u, v: np.array([
-                5 * np.cos(u) * np.cos(v),
-                5 * np.cos(u) * np.sin(v),
-                5 * np.sin(u)
+                0.5 * np.cos(u),
+                v,
+                0.5 * np.sin(u)
+            ]), v_min=-1, v_max=1, u_min= 0, u_max= TAU,
+            checkerboard_colors=[PURPLE_C, PURPLE_D], resolution=(15, 32)
+        )
+
+        sphere0 = ParametricSurface(
+            lambda u, v: np.array([
+                1.5 * np.cos(u) * np.cos(v),
+                1.5 * np.cos(u) * np.sin(v),
+                1.5 * np.sin(u)
             ]), v_min=0, v_max=TAU, u_min=-PI / 2, u_max=PI / 2,
             checkerboard_colors=[PURPLE_C, PURPLE_D], resolution=(15, 32)
         )
 
-        self.play(FadeIn(sphere1), FadeIn(sphere2))
-        self.play(FadeIn(cylinder))
+        sphere5 = ParametricSurface(
+            lambda u, v: np.array([
+                3 * np.cos(u) * np.cos(v),
+                3 * np.cos(u) * np.sin(v),
+                3 * np.sin(u)
+            ]), v_min=0, v_max=TAU, u_min=-PI / 2, u_max=PI / 2,
+            checkerboard_colors=[GOLD_D, GOLD_E], resolution=(15, 32)
+        )
+
+        self.play(FadeIn(sphere1), FadeIn(sphere2), FadeIn(cylinder))
         self.wait()
-        self.play(Transform(cylinder, bigsphere))
+        self.play(Transform(sphere1, sphere0), Transform(sphere2, sphere0), Transform(cylinder, cylinder1))
         self.wait()
+        self.play(Transform(sphere1, sphere5))
 
 # not part of render
 class SphereTest(ThreeDScene):

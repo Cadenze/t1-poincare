@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Surgery/3824587101_1213364348_1567579781.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Surgery/4085231863_2265714579_1567579781.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Surgery/4085231863_3832059241_3596982119.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Surgery/4085231863_2_431901147.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Surgery/4085231863_4103299424_4257649423.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Surgery/2966952259_6_4135963181.mp4'

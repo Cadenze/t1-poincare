@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/TwoSpheres/3824587101_2086847978_3863338808.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/TwoSpheres/4085231863_1-0_214304464.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/TwoSpheres/4085231863_3190618708_3863338808.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/TwoSpheres/4085231863_1-0_4111017894.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/TwoSpheres/4085231863_765992544_1522308530.mp4'
