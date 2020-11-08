@@ -150,8 +150,8 @@ class Surgery(ThreeDScene):
         self.add(lemniscate)
         self.play(Transform(lemniscate, cassini))
     # cutting out problem, replace with caps
-        self.play(FadeOut(lemniscate))
-        self.play(FadeIn(egg1), FadeIn(egg2))
+        self.play(FadeOutAndShift(lemniscate, direction = UP))
+        self.play(FadeInFrom(egg1, DOWN), FadeInFrom(egg2, DOWN))
         self.wait(2)
         self.play(FadeIn(sphere1), FadeIn(sphere2))
     # (no) ricci flow again
