@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Homeomorphic/3058828488_1-0_3735103412.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Homeomorphic/1476858706_818896539_3222419652.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Homeomorphic/1230630113_3449745873_3462164969.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Homeomorphic/575257001_3309789071_4259541830.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/1440p60/partial_movie_files/Homeomorphic/3291229545_1-0_4279313867.mp4'
