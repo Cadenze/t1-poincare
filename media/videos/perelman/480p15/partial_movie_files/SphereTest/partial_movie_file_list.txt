@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/SphereTest/4253071226_563412034_3132447303.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/480p15/partial_movie_files/SphereTest/739348693_1-0_1347613113.mp4'
