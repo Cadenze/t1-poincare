@@ -1,6 +1,6 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/1861624735_4_18613709.mp4'
-file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/3072573153_1-0_300982498.mp4'
-file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/3072573153_424646006_1318387405.mp4'
-file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/4252800843_4_1846556983.mp4'
-file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/62016413_1-0_1835161182.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/2184258304_4_18613709.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/1753731960_1-0_18613709.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/560304263_754993724_3107510026.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/1882659630_4_1846556983.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/perelman/1440p60/partial_movie_files/Singularity/2158010680_1-0_1835161182.mp4'

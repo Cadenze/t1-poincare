@@ -25,6 +25,53 @@ class Manifold(ThreeDScene):
         self.play(Transform(sphere, flat))
         self.wait()
 
+class Closed(ThreeDScene):
+    def construct(self):
+        def param_plane(u, v):
+            x = u
+            y = v
+            z = 0
+            return np.array([x, y, z])
+
+        square = ParametricSurface(
+            param_plane,
+            resolution=(22, 22),
+            v_min=-2,
+            v_max=+2,
+            u_min=-2,
+            u_max=+2,
+            checkerboard_colors=[GREEN_C, GREEN_D]
+        )
+
+        plane = ParametricSurface(
+            param_plane,
+            resolution=(22, 22),
+            v_min=-10,
+            v_max=+12,
+            u_min=-12,
+            u_max=+10,
+            checkerboard_colors=[GREEN_C, GREEN_D]
+        )
+
+        sphere = ParametricSurface(
+            lambda u, v: np.array([
+                1.5 * np.cos(u) * np.cos(v),
+                1.5 * np.cos(u) * np.sin(v),
+                1.5 * np.sin(u)
+            ]), v_min=0, v_max=TAU, u_min=-PI / 2, u_max=PI / 2,
+            checkerboard_colors=[GREEN_C, GREEN_D], resolution=(30, 30)
+        )
+
+        self.set_camera_orientation(phi=45 * DEGREES, theta=-30 * DEGREES)
+        self.play(Write(square))
+        self.wait(2)
+        self.play(FadeOut(square))
+        self.play(Write(plane))
+        self.wait(2)
+        self.play(FadeOut(plane))
+        self.play(Write(sphere))
+        self.wait(2)
+
 # not part of render
 class Circle(ThreeDScene):
     def construct(self):

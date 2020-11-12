@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/723710191_3411704574_1205528165.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_2_1949632972.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_2578676535_1205528165.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_662202636_1116740313.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_2_752625924.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_2193223567_1116740313.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_3356022297_3175441386.mp4'
+file 'file:C:/Users/Cadence/Documents/GitHub/t1-poincare/media/videos/poincare/480p15/partial_movie_files/Closed/3009232771_2_1213627992.mp4'
